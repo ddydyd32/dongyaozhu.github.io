@@ -1,0 +1,25 @@
+papers:
+
+  # - title: "TVDPO"
+  #   authors: "<b>Dongyao Zhu</b>, Xiaoyuan Yi, Dongkuan Xu"
+  #   # venue: "International Conference on Computer Vision (ICCV), 2023"
+  #   # paper_pdf: "https://arxiv.org/abs/2307.12463"
+  #   code: "available upon request"
+  #   # code: "https://github.com/DongyaoZhu/calibrate-networks-trained-on-distilled-datasets"
+  #   selected: y
+
+  - title: "Rethinking Data Distillation: Do Not Overlook Calibration"
+    authors: "<b>Dongyao Zhu</b>, Bowen Lei, Jie Zhang, Yanbo Fang, Yiqun Xie, Ruqi Zhang, Dongkuan Xu"
+    venue: "International Conference on Computer Vision (ICCV), 2023"
+    paper_pdf: "https://arxiv.org/abs/2307.12463"
+    code: "available upon request"
+    # code: "https://github.com/DongyaoZhu/calibrate-networks-trained-on-distilled-datasets"
+    selected: y
+
+  - title: "Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation"
+    authors: "Yue Xiang<sup>‡</sup>, <b>Dongyao Zhu</b><sup>‡</sup>, Bowen Lei, Dongkuan Xu, Ruqi Zhang"
+    venue: "International Conference on Artificial Intelligence and Statistics (AISTATS), 2023"
+    paper_pdf: "https://arxiv.org/abs/2302.13929"
+    code: "available upon request"
+    # code: "https://github.com/DongyaoZhu/Newton-Proposal-for-Discrete-Sampling"
+    selected: y

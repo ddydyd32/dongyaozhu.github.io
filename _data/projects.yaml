@@ -1,0 +1,24 @@
+projects:
+  - title: "Real-Time Accent Conversion"
+    subtitle: "Converts English utterances from one accent to another in 5 seconds. No need of parallel data"
+    thumbnail: "assets/thumbnails/rtac.jpg"
+    # url: "https://github.com/DongyaoZhu/Real-Time-Accent-Conversion"
+    selected: y
+
+  - title: "VQ-VAE-WaveNet"
+    subtitle: "VQ-VAE with WaveNet decoder based on TensorFlow (picture source: https://avdnoord.github.io/homepage/vqvae/)"
+    thumbnail: "https://avdnoord.github.io/homepage/images/reconstruct.jpg"
+    # url: "https://github.com/DongyaoZhu/VQ-VAE-WaveNet"
+    selected: y
+
+  - title: "MindAudio"
+    subtitle: "An audio research toolkit."
+    thumbnail: "https://camo.githubusercontent.com/64b2e2664574cb49e5a3da981b42a302f51d5786557987120015a9758adb5140/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6d696e6473706f72652d6c61622f6d696e64617564696f2f75745f746573742e79616d6c"
+    url: "https://github.com/mindspore-lab/mindaudio"
+    selected: y
+
+  - title: "MindONE"
+    subtitle: "A Generative-AI repository, including stable diffusion 2.1 and ChatGPT detector (MPU-RoBERTA)."
+    thumbnail: "https://camo.githubusercontent.com/64b2e2664574cb49e5a3da981b42a302f51d5786557987120015a9758adb5140/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6d696e6473706f72652d6c61622f6d696e64617564696f2f75745f746573742e79616d6c"
+    url: "https://github.com/mindspore-lab/mindone"
+    selected: y
